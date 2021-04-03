@@ -2,6 +2,13 @@
 DOMAIN-SUFFIX,nintendo.com,DragaliaLost
 DOMAIN-SUFFIX,dragalialost.com,DragaliaLost
 DOMAIN-SUFFIX,cygames.jp,DragaliaLost
+DOMAIN,dragalialost.akamaized.net,DragaliaLost
+DOMAIN,ns.exitgames.com,DragaliaLost
 DOMAIN-KEYWORD,nintendo,DragaliaLost
 DOMAIN-KEYWORD,dragalialost,DragaliaLost
 DOMAIN-KEYWORD,cygames,DragaliaLost
+IP-CIDR,159.8.0.0/24,DragaliaLost,no-resolve
+IP-CIDR,159.8.38.0/24,DragaliaLost,no-resolve
+IP-CIDR,161.202.142.0/24,DragaliaLost,no-resolve
+IP-CIDR,169.44.142.0/24,DragaliaLost,no-resolve
+IP-CIDR,169.53.157.0/24,DragaliaLost,no-resolve
