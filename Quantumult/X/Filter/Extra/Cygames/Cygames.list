@@ -12,3 +12,8 @@ IP-CIDR,159.8.38.0/24,DragaliaLost,no-resolve
 IP-CIDR,161.202.142.0/24,DragaliaLost,no-resolve
 IP-CIDR,169.44.142.0/24,DragaliaLost,no-resolve
 IP-CIDR,169.53.157.0/24,DragaliaLost,no-resolve
+# PrincessConnectReDive
+DOMAIN-SUFFIX,api-pc.so-net.tw,PrincessConnectReDive
+DOMAIN-SUFFIX,api2-pc.so-net.tw,PrincessConnectReDive
+DOMAIN-SUFFIX,api3-pc.so-net.tw,PrincessConnectReDive
+DOMAIN-SUFFIX,api4-pc.so-net.tw,PrincessConnectReDive
