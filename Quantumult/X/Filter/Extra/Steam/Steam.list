@@ -18,7 +18,7 @@ HOST-SUFFIX,steamcontent.tnkjmec.com,Steam
 HOST-SUFFIX,steamgames.com,Steam
 HOST-SUFFIX,steampowered.com,Steam
 HOST-SUFFIX,steampowered.com.8686c.com,Steam
-HOSX,api.steampowered.com,Steam
+HOST,api.steampowered.com,Steam
 HOST-SUFFIX,steamstat.us,Steam
 HOST-SUFFIX,steamstatic.com,Steam
 HOST-SUFFIX,steamstatic.com.8686c.com,Steam
